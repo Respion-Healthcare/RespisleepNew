@@ -6,7 +6,7 @@ import { CartProvider } from "@/context/CartContext"
 import Script from "next/script"
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://Respisleep.in"),
+  metadataBase: new URL("https://respisleep.in"),
 
   title: {
     default: "Respisleep | CPAP, BiPAP & Sleep Apnea Machines India",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     title: "Respisleep | CPAP, BiPAP & Sleep Apnea Machines India",
     description:
       "Buy CPAP machines, BiPAP machines, oxygen concentrators and sleep apnea equipment online in India from Respisleep.",
-    url: "https://Respisleep.in",
+    url: "https://respisleep.in",
     siteName: "Respisleep",
     locale: "en_IN",
     type: "website",
@@ -104,8 +104,8 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "Organization",
               "name": "Respisleep",
-              "url": "https://Respisleep.in",
-              "logo": "https://Respisleep.in/logo.png",
+              "url": "https://respisleep.in",
+              "logo": "https://respisleep.in/logo.png",
               "sameAs": [
                 "https://www.instagram.com/",
                 "https://www.facebook.com/"
