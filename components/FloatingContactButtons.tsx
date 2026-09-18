@@ -5,7 +5,7 @@ export default function FloatingContactButtons() {
     <div className="fixed bottom-6 right-6 z-50 flex flex-col gap-3">
       {/* Call Button */}
       <a
-        href="tel:9937000606"
+        href="tel:7077718897"
         className="
           flex items-center gap-3
           bg-[#0391B6] hover:bg-[#027A99]
@@ -20,13 +20,13 @@ export default function FloatingContactButtons() {
         <span className="text-lg">📞</span>
 
         <span className="font-semibold hidden sm:block">
-          Call 9937000606
+          Call 7077718897
         </span>
       </a>
 
       {/* WhatsApp Button */}
       <a
-        href="https://wa.me/919937000606"
+        href="https://wa.me/917077718897"
         target="_blank"
         rel="noopener noreferrer"
         className="

@@ -178,8 +178,8 @@ export default function TermsPage() {
             </h2>
             <p>
               <strong>Respisleep</strong> <br />
-              Email: Respisleep.in@gmail.com <br />
-              Phone: +91 9148733700 <br />
+              Email: respisleephealthcare@gmail.com <br />
+              Phone: +917077718897 <br />
               Website: https://Respisleep.in <br />
               Working Hours: Monday – Friday (09:00 AM – 06:00 PM)
             </p>

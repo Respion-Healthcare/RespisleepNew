@@ -96,8 +96,8 @@ export default function ReturnPolicyPage() {
           </p>
 
           <div className="mt-3">
-            <p>Email: Respisleep.in@gmail.com</p>
-            <p>Phone: +91 9148733700</p>
+            <p>Email: respisleephealthcare@gmail.com</p>
+            <p>Phone: +917077718897</p>
           </div>
         </section>
 

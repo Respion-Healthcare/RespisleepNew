@@ -25,15 +25,15 @@ export default function CartPage() {
 
         <div className="flex flex-col sm:flex-row gap-3 justify-center mb-8">
           <a
-            href="tel:9937000606"
+            href="tel:7077718897"
             className="inline-flex items-center justify-center gap-2 bg-[#0391B6] hover:bg-[#027A99] text-white px-8 py-3.5 rounded-2xl font-bold shadow-md hover:shadow-lg transition text-base"
           >
             <PhoneCall className="w-5 h-5" />
-            <span>Call: 9937000606</span>
+            <span>Call: 7077718897</span>
           </a>
 
           <a
-            href="https://wa.me/919937000606?text=Hello%20Respisleep,%20I%20would%20like%20to%20inquire%20about%20your%20products."
+            href="https://wa.me/917077718897?text=Hello%20Respisleep,%20I%20would%20like%20to%20inquire%20about%20your%20products."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#1DA851] text-white px-8 py-3.5 rounded-2xl font-semibold shadow-sm hover:shadow transition text-base"

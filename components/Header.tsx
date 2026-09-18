@@ -482,12 +482,12 @@ export default function Header() {
         {/* ICONS */}
         <div className="hidden lg:flex items-center gap-5">
           <a
-            href="tel:9937000606"
+            href="tel:7077718897"
             className="flex items-center gap-2 bg-[#EAF8FC] hover:bg-[#0391B6] text-[#0391B6] hover:text-white px-3.5 py-2 rounded-full text-xs font-semibold transition-all duration-200 shadow-xs"
-            title="Call 9937000606"
+            title="Call 7077718897"
           >
             <PhoneCall className="w-4 h-4" />
-            <span>9937000606</span>
+            <span>7077718897</span>
           </a>
 
           <Link
@@ -594,11 +594,11 @@ export default function Header() {
             <div className="flex justify-around pt-5 border-t">
 
               <a
-                href="tel:9937000606"
+                href="tel:7077718897"
                 className="flex items-center gap-1.5 text-xs font-semibold text-[#0391B6] bg-[#EAF8FC] px-3 py-1.5 rounded-full"
               >
                 <PhoneCall className="w-4 h-4" />
-                <span>Call 9937000606</span>
+                <span>Call 7077718897</span>
               </a>
 
               <Link href="/wishlist">

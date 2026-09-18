@@ -121,7 +121,7 @@ export default function ContactPage() {
                     href="tel:+919148733700"
                     className="text-[#0391B6] font-semibold text-lg hover:underline"
                   >
-                    +91 9148733700
+                    +917077718897
                   </a>
                 </div>
               </div>
@@ -142,10 +142,10 @@ export default function ContactPage() {
                   </p>
 
                   <a
-                    href="mailto:Respisleep.in@gmail.com"
+                    href="mailto:respisleephealthcare@gmail.com"
                     className="text-[#0391B6] font-semibold hover:underline break-all"
                   >
-                    Respisleep.in@gmail.com
+                    respisleephealthcare@gmail.com
                   </a>
                 </div>
               </div>

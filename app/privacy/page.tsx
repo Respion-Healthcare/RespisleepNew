@@ -36,7 +36,7 @@ export default function PrivacyPage() {
                 contactPoint: {
                   "@type": "ContactPoint",
                   contactType: "Customer Support",
-                  email: "Respisleep.in@gmail.com",
+                  email: "respisleephealthcare@gmail.com",
                   telephone: "+91-9148733700",
                   areaServed: "IN",
                 },
@@ -196,8 +196,8 @@ export default function PrivacyPage() {
                 📩 Grievance Officer
               </h2>
               <p><strong>Company:</strong> Respisleep</p>
-              <p><strong>Email:</strong> Respisleep.in@gmail.com</p>
-              <p><strong>Phone:</strong> +91 9148733700</p>
+              <p><strong>Email:</strong> respisleephealthcare@gmail.com</p>
+              <p><strong>Phone:</strong> +917077718897</p>
               <p><strong>Working Hours:</strong> Monday – Friday (09:00 AM – 06:00 PM)</p>
               <p><strong>Website:</strong> https://Respisleep.in</p>
             </section>

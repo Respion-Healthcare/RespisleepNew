@@ -122,7 +122,7 @@ export default function AboutPage() {
               image: "https://Respisleep.in/images/aboutus.webp",
               url: "https://Respisleep.in",
               telephone: "+91-9148733700",
-              email: "Respisleep.in@gmail.com",
+              email: "respisleephealthcare@gmail.com",
               description:
                 "Respisleep provides CPAP, BiPAP, oxygen concentrators and respiratory healthcare solutions across India.",
             }),
@@ -474,7 +474,7 @@ export default function AboutPage() {
                     </p>
 
                     <p className="text-xl font-black text-gray-900 hover:text-[#0391B6] transition">
-                      +91 9148733700
+                      +917077718897
                     </p>
 
                   </a>
@@ -486,7 +486,7 @@ export default function AboutPage() {
 
                      {/* EMAIL */}
                   <a
-                    href="mailto:Respisleep.in@gmail.com"
+                    href="mailto:respisleephealthcare@gmail.com"
                     className="block rounded-2xl bg-gradient-to-r from-blue-50 to-cyan-50 p-4 sm:p-5 hover:shadow-lg hover:-translate-y-1 transition duration-300"
                   >
 
@@ -495,7 +495,7 @@ export default function AboutPage() {
                     </p>
 
                     <p className="text-base font-semibold text-gray-800 break-all hover:text-[#0391B6] transition">
-                      Respisleep.in@gmail.com
+                      respisleephealthcare@gmail.com
                     </p>
 
                   </a>

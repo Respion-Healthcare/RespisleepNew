@@ -123,7 +123,7 @@ export default function Footer() {
           </div>
 
           {/* Our Company */}
-          <div>
+          {/* <div>
 
             <h3 className="text-lg font-semibold text-[#0391B6] mb-3 tracking-wide">
               Our Company
@@ -177,7 +177,7 @@ export default function Footer() {
               </li>
 
             </ul>
-          </div>
+          </div> */}
 
           {/* Contact */}
           <div>
@@ -195,10 +195,10 @@ export default function Footer() {
 
               <li>
                 <a
-                  href="mailto:Respisleep.in@gmail.com"
+                  href="mailto:respisleephealthcare@gmail.com"
                   className="hover:text-[#0391B6] transition duration-300"
                 >
-                  Respisleep.in@gmail.com
+                  respisleephealthcare@gmail.com
                 </a>
               </li>
 
@@ -207,7 +207,7 @@ export default function Footer() {
                   href="tel:+919148733700"
                   className="hover:text-[#0391B6] transition duration-300"
                 >
-                  +91 9148733700
+                  +917077718897
                 </a>
               </li>
 

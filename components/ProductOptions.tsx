@@ -120,16 +120,16 @@ export default function ProductOptions({ product }: any) {
 
         {/* CALL BUTTON */}
         <a
-          href="tel:9937000606"
+          href="tel:7077718897"
           className="w-full py-3.5 px-5 rounded-2xl font-bold bg-[#0391B6] hover:bg-[#027A99] text-white shadow-md hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-3 text-base group cursor-pointer"
         >
           <PhoneCall className="w-5 h-5 transition-transform group-hover:scale-110" />
-          <span>Call to Inquire: 9937000606</span>
+          <span>Call to Inquire: 7077718897</span>
         </a>
 
         {/* WHATSAPP BUTTON */}
         <a
-          href={`https://wa.me/919937000606?text=${whatsappMessage}`}
+          href={`https://wa.me/917077718897?text=${whatsappMessage}`}
           target="_blank"
           rel="noopener noreferrer"
           className="w-full py-3 px-5 rounded-2xl font-semibold bg-[#25D366] hover:bg-[#1DA851] text-white shadow-sm hover:shadow transition-all duration-200 flex items-center justify-center gap-2.5 text-sm cursor-pointer"

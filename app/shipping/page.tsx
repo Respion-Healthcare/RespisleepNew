@@ -36,7 +36,7 @@ export default function ShippingPage() {
                 contactPoint: {
                   "@type": "ContactPoint",
                   contactType: "Customer Support",
-                  email: "Respisleep.in@gmail.com",
+                  email: "respisleephealthcare@gmail.com",
                   telephone: "+91-9148733700",
                   areaServed: "IN",
                 },
@@ -135,8 +135,8 @@ export default function ShippingPage() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">
                 📩 Contact Information
               </h2>
-              <p><strong>Email:</strong> Respisleep.in@gmail.com</p>
-              <p><strong>Phone:</strong> +91 9148733700</p>
+              <p><strong>Email:</strong> respisleephealthcare@gmail.com</p>
+              <p><strong>Phone:</strong> +917077718897</p>
               <p><strong>Website:</strong> https://Respisleep.in</p>
               <p className="mt-4 text-sm text-gray-600">
                 For vendor-specific shipping inquiries, please refer to your order confirmation details.
